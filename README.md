@@ -11,4 +11,4 @@ e isso me motivou a querer começar a programar, pesquisando mais um pouco resol
 
 ## Tecnologias que uso no meu dia a dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalyssonMarley&layout=donut-vertical)](https://github.com/TalyssonMarley/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalyssonMarley&layout=donut-vertical&theme=dracula)](https://github.com/TalyssonMarley/github-readme-stats)
